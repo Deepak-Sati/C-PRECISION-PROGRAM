@@ -8,8 +8,8 @@ Write a program to generate random values for ( a, b, c, . . . , w, x) in this e
 NOTE: We know the values of y1 , y2 , y3 , . . . . . , y24 and CONSTVAL
 known values are
 
-Y1   =  0.89608802455664 
-Y2   = -0.083381608939051 
+Y1   =  0.89608802455664  ,
+Y2   = -0.083381608939051 ,
 Y3   =  0.24686007793153 
 Y4   =  0 
 Y5   =  0.067658648473815 
