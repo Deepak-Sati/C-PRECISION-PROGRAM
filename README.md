@@ -5,8 +5,8 @@ Write a program to generate random values for ( a, b, c, . . . , w, x) in this e
 
 [ ( a* y1 ) + ( b* y2 ) +. . . . + ( v * y23 ) + ( w * y24 ) ] = CONSTVAL
 
-NOTE: We know the values of y1 , y2 , y3 , . . . . . , y24 and CONSTVAL
-known values are
+NOTE: We know the values of y1 , y2 , y3 , . . . . . , y24 
+and   CONSTVAL  =  5.94017125272043
 
 Y1   =  0.89608802455664  
 
@@ -57,4 +57,3 @@ y23  =  0.34629704820832
 Y24  =  4.4841028037230
 
 
-CONSTVAL  =  5.94017125272043
