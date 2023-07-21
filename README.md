@@ -1,6 +1,7 @@
 # C-Precision-Program-
-This is basically a program to randomly generate values for the equation to get required sum , Follow README for problem description
+randomly generate values for the equation to get required sum 
 
+problem description <br>
 Write a program to generate random values for ( a, b, c, . . . , w, x) in this equation
 
 [ ( a* y1 ) + ( b* y2 ) +. . . . + ( v * y23 ) + ( w * y24 ) ] = CONSTVAL
